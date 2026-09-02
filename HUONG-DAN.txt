@@ -1,0 +1,20 @@
+WEBSITE TƯ VẤN TÂN SINH VIÊN CTUMP
+Trung tâm Ngoại ngữ, Đại học Cần Thơ
+
+CÁCH ĐƯA LÊN GITHUB PAGES
+1. Giải nén file ZIP.
+2. Upload toàn bộ file lên cùng một cấp trong repository GitHub.
+3. Vào Settings > Pages.
+4. Chọn Deploy from a branch > main > /(root), sau đó nhấn Save.
+
+CÁCH TRÌNH BÀY
+- Bấm trực tiếp vào từng tab chương trình.
+- Dùng phím mũi tên trái/phải, Page Up/Page Down hoặc phím Space để chuyển nội dung.
+- Nhấn F11 trên Windows để trình chiếu toàn màn hình.
+
+LƯU Ý
+- Không đổi tên hoặc tách các file sang thư mục con nếu chưa sửa lại đường dẫn trong index.html.
+- Tab CFL Buffet áp dụng cho sinh viên CTU và CTUMP.
+- Tại tab Road to VSTEP, bấm vào thẻ B1 hoặc B2 để xem danh mục lớp và học phí chi tiết.
+- Tab cuối là Q&A, kèm thông tin liên hệ. Bấm nút "QR" để chọn ảnh mã QR Zalo hoặc thay nhanh bằng ảnh QR khác.
+- Ảnh QR được ghi nhớ trên trình duyệt và thiết bị đang sử dụng. Nếu đổi trình duyệt hoặc thiết bị, hãy tải QR lên lại.
